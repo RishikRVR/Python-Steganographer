@@ -1,7 +1,6 @@
 # Encryption:
 
    rishi@rishis-macbook-air Project % python3 Encrypt.py
-   <Clears Screen>
    Enter The Path/To/Text/File To Encrypt:
    secret.txt
    Enter The Path/To/Image/File To Use It As Cover:
@@ -27,7 +26,7 @@
    P.Jagadish Kumar
    R.V.R.Rishik
    P.Eswar Subash
-
+   
 # Decryption:
 
    rishi@rishis-macbook-air Project % python3 Decrypt.py
