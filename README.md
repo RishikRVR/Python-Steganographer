@@ -16,6 +16,7 @@ A Simple Python Script To Encrypt Text Into Image Using LSB Method
 - python-pillow / python3-pillow
 # Tested On:
 - MacBook Air M1 (2020): macOS 15.5
-- MacBook Pro i5-3210M (Mid 2012): Garuda (Arch) Linux Broadwing
+- MacBook Pro i5-3210M (Mid 2012): Garuda (Arch) Linux Broadwing (Linux Kernel 6.13.5-zen1-1-zen)
 - iPhone SE (2016) (Jailbroken): iOS 15.8.4
-- Yet To Test On Windows And Android (Termux)
+- Asus TUF Gaming B760M-E D4 i5-12400F: Windows 11 24H2
+- Yet To Test On Android (Termux/Root)
