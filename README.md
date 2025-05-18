@@ -14,3 +14,8 @@ A Simple Python Script To Encrypt Text Into Image Using LSB Method
 - - Prints The Data And Saves The Data To output.txt
 # Python Requirements
 - python-pillow / python3-pillow
+# Tested On:
+- MacBook Air M1 (2020): macOS 15.5
+- MacBook Pro i5-3210M (Mid 2012): Garuda (Arch) Linux Broadwing
+- iPhone SE (2016) (Jailbroken): iOS 15.8.4
+- Yet To Test On Windows And Android (Termux)
