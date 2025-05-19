@@ -67,12 +67,6 @@ def main():
     full_text = passkey + secret_text
     print("-> Converting Text To Binary...")
     binary_secret = text_to_binary(full_text)
-    print("-> Splitting The Extracted Binary Code: 2 Parts\n")
-    mid = len(binary_secret) // 2
-    part1 = binary_secret[:mid]
-    part2 = binary_secret[mid:]
-    print("-> Part 1:", part1)
-    print("-> Part 2:", part2)
     print("\n-> Embedding Binary Data To Image...")
     embed_data_in_image(image_file, binary_secret, output_file)
     print("-> Verifying...")
